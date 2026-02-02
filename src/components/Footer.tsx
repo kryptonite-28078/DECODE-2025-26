@@ -23,7 +23,7 @@ const Footer = () => {
             </p>
             <div className="flex flex-wrap gap-3">
               <a
-                href="mailto:team.kryptonite.28078.ftc@gmail.com,Shauryasule17@gmail.com?subject=Contact%20Team%20Kryptonite"
+                href="mailto:team.kryptonite.28078.ftc@gmail.com?cc=Shauryasule17@gmail.com&subject=Contact%20Team%20Kryptonite"
                 className="flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 text-white/70 hover:bg-primary hover:text-black transition-all duration-300 hover:-translate-y-1 text-sm"
                 aria-label="Email"
               >

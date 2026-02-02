@@ -65,7 +65,7 @@ const Navigation = () => {
               ))}
               <div className="w-px h-6 bg-border mx-2" />
               <a
-                href="mailto:team.kryptonite.28078.ftc@gmail.com,Shauryasule17@gmail.com?subject=Contact%20Team%20Kryptonite"
+                href="mailto:team.kryptonite.28078.ftc@gmail.com?cc=Shauryasule17@gmail.com&subject=Contact%20Team%20Kryptonite"
                 className="inline-flex items-center justify-center h-9 px-3 text-sm bg-primary text-black hover:bg-primary/90 rounded-full font-bold shadow-[0_0_10px_rgba(0,255,136,0.3)] hover:shadow-[0_0_20px_rgba(0,255,136,0.5)] transition-all"
               >
                 Contact Us
@@ -102,7 +102,7 @@ const Navigation = () => {
               </button>
             ))}
             <a
-              href="mailto:team.kryptonite.28078.ftc@gmail.com,Shauryasule17@gmail.com?subject=Contact%20Team%20Kryptonite"
+              href="mailto:team.kryptonite.28078.ftc@gmail.com?cc=Shauryasule17@gmail.com&subject=Contact%20Team%20Kryptonite"
               className="w-full inline-flex items-center justify-center h-11 px-8 bg-primary text-black hover:bg-primary/90 mt-4 rounded-full font-bold text-lg shadow-[0_0_20px_rgba(0,255,136,0.3)]"
             >
               Contact Us
