@@ -23,6 +23,14 @@ const Achievements = () => {
               CHAMPIONS
             </span>
           </h2>
+          <div className="flex flex-wrap items-center justify-center gap-3">
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-primary/30 bg-primary/10 text-primary text-xs sm:text-sm font-semibold tracking-wide">
+              APOC Winner
+            </div>
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-primary/30 bg-primary/10 text-primary text-xs sm:text-sm font-semibold tracking-wide">
+              Think Award Winner — C V Raman West India Regionals, Mumbai
+            </div>
+          </div>
         </div>
 
         <div className="max-w-4xl mx-auto">
